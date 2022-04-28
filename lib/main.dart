@@ -43,7 +43,8 @@ class _MyHomePageState extends State<MyHomePage> {
     "Com o meu amor",
     "Com minha gata",
     "Com o amor da minha vida",
-    "Com minha engenheira"
+    "Com minha engenheira",
+    "Na casa da namorada"
   ];
 
   String randomTexto = "";
